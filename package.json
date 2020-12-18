@@ -1,0 +1,23 @@
+{
+  "name": "mern-shop",
+  "version": "1.0.0",
+  "description": "MERN Shop app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backand/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amraaa/MERN-Shop.git"
+  },
+  "author": "Amra T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amraaa/MERN-Shop/issues"
+  },
+  "homepage": "https://github.com/Amraaa/MERN-Shop#readme"
+}
